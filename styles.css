@@ -90,6 +90,7 @@ text-align:center;
 		transition: 0.4s;
 		}
 
+/*Раскрытие меню*/
 		.adapt {
 		justify-content: space-around;
 		display: block;
@@ -106,6 +107,9 @@ text-align:center;
 		margin: 40px 44px 40px;
 		font-size: 15px;
 		flex-grow:1;
+		}
+		.button{
+			display:block;
 		}
 		.adapt.open-menu {
 		left: 0;
